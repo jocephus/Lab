@@ -1,0 +1,3 @@
+# useful docker commands
+ - docker ps (Lists running containers)
+ - docker restart <container ID> (Restarts target container)
